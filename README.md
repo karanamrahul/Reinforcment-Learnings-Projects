@@ -29,7 +29,7 @@ Matplotloib
 
 ```python
 
-$ git clone --recursive https://github.com/karanamrahul/Reinforcment-Learnings-Projects/tree/main/Virtual_car_q_learning
+$ git clone --recursive https://github.com/karanamrahul/Reinforcment-Learnings-Projects.git
 
 $ cd Virtual_car_q_learning
 
@@ -43,9 +43,9 @@ $ python3 deep_q.py
 
 
 
-![](https://github.com/karanamrahul/Reinforcment-Learnings-Projects/blob/main/Virtual_car_q_learning/results/self_drive.gif)
+![](https://github.com/karanamrahul/Reinforcment-Learnings-Projects/blob/main/results/self_drive.gif)
 
-![](https://github.com/karanamrahul/Reinforcment-Learnings-Projects/blob/main/Virtual_car_q_learning/results/selfdrive.gif)
+![](https://github.com/karanamrahul/Reinforcment-Learnings-Projects/blob/main/results/selfdrive.gif)
 
 
 ### Deep Q-learning model process
